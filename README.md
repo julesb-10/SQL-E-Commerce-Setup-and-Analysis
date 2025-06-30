@@ -6,7 +6,7 @@ business insights through SQL queries ranging from simple to advanced.
 
 ---
 
-## 📊 Project Overview
+## Project Overview
 
 - **Data Source:** [Fecom Inc. E-Commerce Orders Data (Kaggle)](https://www.kaggle.com/datasets/cemeraan/fecom-inc-e-com-marketplace-orders-data-crm)  
 - **Database:** PostgreSQL  
@@ -14,16 +14,16 @@ business insights through SQL queries ranging from simple to advanced.
 
 ---
 
-## 🛠️ Key Features
+## Project Features:
 
 - Converted raw CSVs into normalized PostgreSQL tables and defined inter-table relationships  
 - Cleaned data (e.g., geolocation formatting, duplicate removal) and enforced referential integrity  
 - Wrote 50+ queries to analyze customer behavior, sales trends, product performance, seller reliability, and operational efficiency  
-- Applied a wide range of SQL techniques: joins, aggregations, CTEs, window functions, date functions, and conditional logic  
+- Applied a wide range of SQL techniques including: joins, aggregations, CTEs, window functions, date functions, and conditional logic  
 
 ---
 
-## 📈 Sample Questions Answered
+## Sample Questions Answered
 
 - What are the top-selling product categories by revenue?  
 - What percentage of orders are delivered late?  
